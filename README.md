@@ -1,4 +1,4 @@
-# quotes-ionic-app
+# recipes-ionic-app
 
 You're downloading a finished Ionic 3 project. The following steps allow you to run it:
 
